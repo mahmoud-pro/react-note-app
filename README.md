@@ -2,6 +2,8 @@
 
 Welcome to the React Note App! This application allows you to manage your notes with ease. You can create, update, delete, search, and save notes using your browser's local storage.
 
+![see note app live] (https://save-my-note.netlify.app/)
+
 ![React Note App](./thumbnail.jpg)
 
 ## Features
